@@ -11,9 +11,9 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "EnergyHub - Sustainable Energy Solutions",
+  title: "GuruEnergy - Sustainable Energy Solutions",
   description: "Shop for high-quality coolers, solar panels, batteries, and RO products for your home and business.",
-    generator: 'v0.dev'
+    
 }
 
 export default function RootLayout({
